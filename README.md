@@ -1,6 +1,6 @@
 # Simulador-WebSite
 
-Projeto 100% autoral simulando a hierarquia de paginas web usando o sistema de pasta de um sistema operacional 
+Projeto simulando a hierarquia de paginas web usando o sistema de pasta de um sistema operacional 
 Exemplo:
 - www.youtube.com -> URL PRINCIPAL -- No contexto do projeto, a pasta principal.
 - www.youtube.com/video -> URL SECUNDARIA -- No contexto do projeto, subpasta da principal.
